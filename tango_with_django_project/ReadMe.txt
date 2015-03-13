@@ -6,7 +6,10 @@ I wasn't sure whether I needed to complete the user profile part of the website 
 
 However, after realizing we need to do it I have added it in and I understand that it is after the check in date.
 
-The commits after the added user profile feature are just bugs I found during my lab and I thought I'd fix as I hadn't tested them. 
+The commits after the added user profile feature are just bugs I found in user profiling and I thought I'd fix as I hadn't tested them. 
+
+The add page commit was done to fix the error when the search category function was brought it in.
+This was commited after the deadline but I'm not sure what chapter it is from so forgive me if I have said fully completed in the wrong chapter.
 
 Also I had forgotten to commit chapter 15 before I started 16&17 therefore I commited again adding the "Chapter 15,16,17 - Completed" although this commit had made no changes the commit before also had the chapter 15 changes.
 
